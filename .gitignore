@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.ckpt
+*.ckpt.part
+*.mat
+.ipynb_checkpoints/
+outputs/
+.venv/
+venv/
